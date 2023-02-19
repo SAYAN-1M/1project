@@ -1,0 +1,20 @@
+h1{
+    color: antiquewhite;
+    background-color: blue;
+    border: 10px solid #fff;
+}
+p1{
+    color: aqua;
+    background-color: bisque;
+    border-block: 3px dotted blue;
+}
+div{
+    border-block: double ;
+}
+#photo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 10px solid rgb(255, 255, 254);
+    filter: brightness(0.4);
+}
